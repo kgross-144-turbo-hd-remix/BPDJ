@@ -13,7 +13,7 @@
     NSNotification* _valueDidChangeNotification;
 }
 @end
-
+//mygodwhy
 @implementation DJOverlapSlider
 @synthesize objectTop;
 @synthesize objectBottom;
